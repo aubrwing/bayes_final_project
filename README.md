@@ -1,6 +1,6 @@
 # bayes_final_project
 Baysian Machine Learning Final Project Fall 2022
-This project aims to predict revenue from Rotten Tomatoes movie review data. The following Python packages are needed to run the code:
+This project aims to predict revenue from Rotten Tomatoes movie review data. The following Python packages are needed to run the code:<br /> 
 import numpy as np
 import pandas as pd
 from sklearn.decomposition import LatentDirichletAllocation
